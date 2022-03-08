@@ -1,4 +1,6 @@
-# ScarcityResearch
+# Scarcity Research Project
+
+### Overview: This dashboard showcases how Topps' implementation of item scarcity has impacted its total sales.
 
 add text from tooltip image into the read me 
 
