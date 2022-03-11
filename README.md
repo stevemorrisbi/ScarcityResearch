@@ -2,6 +2,8 @@
 
 ### Overview: This dashboard showcases how Topps' implementation of item scarcity has impacted its total sales.
 
+![Formula 1 main-page-001](https://user-images.githubusercontent.com/99413257/157270225-c5733921-ef42-41e3-88f8-5009748a2f72.jpg)
+
 Parralel cards are printed to numbers of 1, 10 and 99 with a colour variation for each. These parralel cards are randomly inserted into orders.
 
 The print on demand cards can be pruchased at the following prices -
@@ -25,10 +27,7 @@ It was important to highlght this in the centre of the dashboard as a concluding
 
 Slicers were also added to allow the viewer to see the influence of the driver featured on each card. It can be concluded that this had an influence total sales on individual cards and therefore may influence decisions on future production.
 
-### Ideas for future work -
-This project could be developed to see if the implementation of scarcity has improved sales amongst other sports also. Sales data for this year would also create an comparison to 2021 to see if there is any trends over time. 
-
-![Formula 1 main-page-001](https://user-images.githubusercontent.com/99413257/157270225-c5733921-ef42-41e3-88f8-5009748a2f72.jpg)
-
-
 ![Formula 1 filtering-page-001](https://user-images.githubusercontent.com/99413257/157270268-36c6a65d-e85a-4dfd-87d7-bddae0d4ab7b.jpg)
+
+### Ideas for future work -
+This project could be developed to see if the implementation of scarcity has improved sales amongst other sports also. Sales data for this year would also create an interesting comparison to 2021 to discover if there is any trends over time. 
