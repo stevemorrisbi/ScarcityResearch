@@ -22,10 +22,9 @@ To discover the extra ordering caused by parralel cards, the total of just base 
 
 To calculate the average spend on parralel card opportunities, the average of the parralel card orders (9,160) had to be multiplied by the average card price as calaculated above (£3.80). This highlighted that the average spend for parralels was £34,808 and ( avg just base orders 3,080 x £3.80) leaving an avg order total for base of £11,704.
 
-Taking the total spend on avg base order spend from the parralel spend left and avg difference of £23,104 for total orders. 
-It was important to highlght this in the centre of the dashboard as a concluding point from the study. 
+Taking the total spend on avg base order spend from the parralel spend left an avg difference of £23,104 for total orders. This summation was highlghted in the centre of the dashboard as a concluding point from the study. 
 
-Slicers were also added to allow the viewer to see the influence of the driver featured on each card. It can be concluded that this had an influence total sales on individual cards and therefore may influence decisions on future production.
+Slicers were also added to allow the viewer to see the influence of the driver featured on each card. It can be concluded that this had an influence on total sales for individual cards and therefore may influence decisions on future production.
 
 ![Formula 1 filtering-page-001](https://user-images.githubusercontent.com/99413257/157270268-36c6a65d-e85a-4dfd-87d7-bddae0d4ab7b.jpg)
 
