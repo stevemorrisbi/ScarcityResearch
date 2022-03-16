@@ -1,6 +1,6 @@
 # Scarcity Research Project
 
-### Overview: This report showcases how Topps' implementation of item scarcity has impacted its total sales.
+### Overview: This report showcases how Topps' implementation of item scarcity has impacted total sales.
 
 ![Formula 1 main-page-001](https://user-images.githubusercontent.com/99413257/157270225-c5733921-ef42-41e3-88f8-5009748a2f72.jpg)
 
