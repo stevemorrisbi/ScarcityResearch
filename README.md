@@ -29,4 +29,4 @@ Slicers were also added to allow the viewer to see the influence of the driver f
 ![Formula 1 filtering-page-001](https://user-images.githubusercontent.com/99413257/157270268-36c6a65d-e85a-4dfd-87d7-bddae0d4ab7b.jpg)
 
 ### Ideas for future work -
-This project could be developed to see if the implementation of scarcity has improved sales amongst other sports also. Sales data for this year would also create an interesting comparison to 2021 to discover if there is any trends over time. 
+This project could be developed to see if the implementation of scarcity has improved sales amongst other sports also. Sales data for this year would also create an interesting comparison to 2022 to discover if there is any trends over time. 
