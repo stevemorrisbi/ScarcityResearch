@@ -6,7 +6,7 @@
 
 Parallel cards are printed to numbers of 1, 10 and 99 with a colour variation for each. These parallel cards are randomly inserted into orders.
 
-The print on demand cards can be pruchased at the following prices -
+The print on demand cards can be purchased at the following prices -
 * 1 card = £8
 * 5 cards = £24
 * 10 cards = £40
